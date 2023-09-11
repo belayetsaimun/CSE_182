@@ -1,2 +1,2 @@
 # CSE_182_Sessional
-This reporsitory contains all my CSE lab codes
+This repository contains all my CSE_182 codes.
