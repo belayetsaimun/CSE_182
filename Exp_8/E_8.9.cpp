@@ -36,7 +36,6 @@ int main()
         cout<<"\n";
     }
 
-
     if (count > (r * c / 2))
     {
         cout << "The matrix is sparse";
