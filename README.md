@@ -1,1 +1,1 @@
-This repository contains C and C++ codes for my CSE_182 sessional course.
+This repository contains C and C++ codes for CSE_182 (Computer Programming) sessional course.
