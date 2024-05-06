@@ -1,2 +1,1 @@
-# CSE_182_Sessional
-This repository contains all my CSE_182 lab course codes.
+This repository contains C and C++ codes for my CSE_182 sessional course.
